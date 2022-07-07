@@ -44,6 +44,10 @@ def accuracy(y_hat, y):  #@save
     cmp = y_hat.type(y.dtype) == y
     return float(cmp.type(y.dtype).sum())
 
+
+
+
+
 class Accumulator:  #@save
     """在n个变量上累加"""
     def __init__(self, n):
