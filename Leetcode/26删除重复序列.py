@@ -15,6 +15,6 @@ class Solution:
         return sum(indexs)
 
 sl=Solution()
-nums=[1,1,2]
+nums=[1,1,2,3,4]
 sl.removeDuplicates(nums)
 print(nums)
