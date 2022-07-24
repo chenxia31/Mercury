@@ -287,17 +287,43 @@ def raidxSort(arr):
     return neg_arr[::-1]+pos_arr
 
 
+def newquickSort(arr,low,high):
+    '''
+    代码补充
+    '''
+    def reSort(arr,low,high):
+        res=low-1
+
+        for j in range(low,high+1):
+            if arr[j]<=arr[high]:
+                res+1
+                arr[res],arr[j]=arr[j],arr[res]
+        return res
+    
+    def random_index(arr,low,high):
+        mid=low+(high-low)//2
+
+        arr[high],arr[mid]=arr[mid],arr[high]
+        return reSort(arr,low,high)
+    
+    if low<high:
+        index=random_index(arr,low,high)
+        quickSort(arr,low,index-1)
+        quickSort(arr,index+1,high)
+        print(index)
+    return arr
+
 test_arr=[1280, -3627, -2475, -8776, -3166, 6680]
+import numpy as np
+test_arr=np.random.permutation(20)
 # print(bubbleSort(test_arr))
 # print(selectSort(test_arr))
 # print(insertSort(test_arr))
 # print(shellSort(test_arr))
 # print(mergeSort(test_arr))
-# print(quickSort(test_arr,0,len(test_arr)-1))
+print(newquickSort(test_arr,0,len(test_arr)-1))
 # print(heapSort([1,2,4,3,5]))
 # print(countingSort(test_arr))
-
-print(raidxSort(test_arr))
 
 
 
