@@ -4,7 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="783812ae-e5d2-4832-bc05-d4835e2e0a8e" name="变更" comment="" />
+    <list default="true" id="783812ae-e5d2-4832-bc05-d4835e2e0a8e" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CourseWork/originData.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/104二叉树的最大深度.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/26删除重复序列.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/94二叉树的中序遍历.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Binary_Search" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/Binary_Search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/BubbleSort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/C2.1-insertion sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/C2.1-merge sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/C4.1-The maxiumu subarray problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/E1-iris.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/E2-seaborn-relplot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/E3-traiangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/E4-catch rain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/LinkedList.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/L周赛5838.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/L周赛5839.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/SlideWindow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/StringBase.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/TwoPinter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/backtracking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/divide_conquer" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/divide_conquer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/enumerating.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/gauss_square.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/minNumber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/recursion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/stackBase.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/template_Sublime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mercury.code-workspace" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonProject/.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,25 +84,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/chenxia/Documents/Code Project/Mercury&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "last_opened_file_path": "/Users/chenxia/Documents/Code Project/Mercury",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="ReaderModeSettings">
     <option name="enabled" value="false" />
   </component>
@@ -312,6 +350,7 @@
       <workItem from="1656838044378" duration="18000" />
       <workItem from="1657185859055" duration="32000" />
       <workItem from="1658237205761" duration="288000" />
+      <workItem from="1661820436021" duration="147000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1649491498807</created>
