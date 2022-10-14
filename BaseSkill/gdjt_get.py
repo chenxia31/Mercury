@@ -32,7 +32,7 @@ from Crypto.Cipher import AES
 import time
 import json
 
-class_id='14984'
+class_id='14989'
 url_id='http://gdjt.tongji.edu.cn/Swoole/push.json'
 url_result='http://gdjt.tongji.edu.cn/Swoole/result.json/?act_id='+class_id
 
@@ -43,8 +43,7 @@ headers={
     'Token':'Token' #后面update_token_str()中会随着时间实时更新
 }
 
-cookie_str='PHPSESSID=dmir3vrasi1ntfu2u9t9sfia0h; Hm_lvt_7543ad4d5aca565a9ba0da0cc74c4eb7=1663375191; Hm_cv_7543ad4d5aca565a9ba0da0cc74c4eb7=1*visitor*PC; pwapp_unbs=10212970; pwapp_ext_sid=2233391; pwapp_uname=%E5%BE%90%E6%99%A8%E9%BE%99; tokens=7713a452e063e87b4bdc1e87e0ef4595; connection_id=3ddd1c76e980a2f36f8caa7f51a4df8b; IS_YXMC=10212970; think_language=zh-CN; Hm_lpvt_7543ad4d5aca565a9ba0da0cc74c4eb7=1663379141'
-
+cookie_str='Hm_cv_7543ad4d5aca565a9ba0da0cc74c4eb7=1*visitor*PC; pwapp_unbs=10212970; pwapp_ext_sid=2233391; pwapp_uname=徐晨龙; tokens=7713a452e063e87b4bdc1e87e0ef4595; connection_id=3ddd1c76e980a2f36f8caa7f51a4df8b; IS_YXMC=10212970; PHPSESSID=qihii41u1go93jj26qfsursieg; think_language=zh-CN; Hm_lvt_7543ad4d5aca565a9ba0da0cc74c4eb7=1663375191,1663645360,1663679596; Hm_lpvt_7543ad4d5aca565a9ba0da0cc74c4eb7=1663679720'
 # 将cookie转换为key- value形式
 cookies={}
 for line in cookie_str.split(';'):
@@ -122,4 +121,3 @@ while True:
     except requests.exceptions.ConnectionError as e:
         print('error')
         time.sleep(10)
-ou
