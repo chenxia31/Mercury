@@ -130,3 +130,4 @@ if __name__ == '__main__':
     for epoch in range(1, args.epochs + 1):
         train(epoch)
         test(epoch)
+
