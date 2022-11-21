@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="783812ae-e5d2-4832-bc05-d4835e2e0a8e" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/BaseSkill/Python/ipv6get.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaseSkill/ReinforceLearning/cart.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaseSkill/ReinforceLearning/cartpole.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaseSkill/ReinforceLearning/taxi_hello_world.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kaggle/MathModel/shengwu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kaggle/MathModel/shengwu.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kaggle/MathModel/~$shengwu.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaseSkill/PytorchLearning/torch08_RNN从零实现.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BaseSkill/PytorchLearning/torch08_RNN从零实现.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BaseSkill/PytorchLearning/torch6_LeNET.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BaseSkill/PytorchLearning/torch6_LeNET.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaseSkill/PytorchLearning/torch7_rnn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BaseSkill/PytorchLearning/torch7_rnn.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaseSkill/gdjt_get.py" beforeDir="false" afterPath="$PROJECT_DIR$/BaseSkill/gdjt_get.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,6 +200,9 @@
       <module name="Mercury" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Kaggle/MathModel" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -351,6 +346,7 @@
       <workItem from="1661820436021" duration="147000" />
       <workItem from="1665101907911" duration="676000" />
       <workItem from="1665112164593" duration="712000" />
+      <workItem from="1668155795745" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <created>1649491498807</created>
